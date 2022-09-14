@@ -1,0 +1,12 @@
+
+
+export const GET_DETAIL_MOVIES = 'GET_DETAIL_MOVIES';
+
+export const GET_SIMILAR_MOVIES = 'GET_SIMILAR_MOVIES';
+
+export const GET_CREDITS_MOVIES = 'GET_CREDITS_MOVIES';
+
+
+export const GET_DETAIL_TV = 'GET_DETAIL_TV';
+export const GET_SIMILAR_TV = 'GET_SIMILAR_TV';
+export const GET_CREDITS_TV = 'GET_CREDITS_TV';
